@@ -34,7 +34,7 @@ The **PawPaw Market** is a web application designed to simplify the process of p
 ## Layer Architecture (Oliver)
 //just add diagram and related information if needed
 ## Event-based Architecture 
-![Alt text](./EventBased.png "Title")
+![Alt text](./Unselected-EVENTBASED/EventBased.png "Title")
 
 
 ## Comparison between two architecture styles (Ben)
