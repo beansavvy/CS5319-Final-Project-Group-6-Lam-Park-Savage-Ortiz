@@ -32,9 +32,9 @@ The **PawPaw Market** is a web application designed to simplify the process of p
    After adding items to their shopping cart, users can place their order to purchase items.
 
 ## Layer Architecture (Oliver)
-//just add diagram and related information if needed
+![Alt text](./Layered.png "Title")
 ## Event-based Architecture 
-![Alt text](./Unselected-EVENTBASED/EventBased.png "Title")
+![Alt text](./EventBased.png "Title")
 
 
 ## Comparison between two architecture styles (Ben)
