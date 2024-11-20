@@ -31,7 +31,7 @@ The **PawPaw Market** is a web application designed to simplify the process of p
 4. **Place Order**</br>
    After adding items to their shopping cart, users can place their order to purchase items.
 
-## Layer Architecture
+## Layered Architecture
 ![Alt text](./Layered.png "Title")
 ## Event-based Architecture 
 ![Alt text](./EventBased.png "Title")
